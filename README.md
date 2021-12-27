@@ -1,0 +1,1 @@
+Fuji TestNet - [Contract]("https://testnet.snowtrace.io/address/0x5ebC0e10552c1A358C88dC040D99e61A1fc0Ad46")
